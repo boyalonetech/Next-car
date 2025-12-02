@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next Car App | Boy Alone Techs",
+  title: "Car Race Game | Boy Alone Techs",
   description: "Simple car game built with Next.js and TypeScript.",
 };
 
